@@ -36,8 +36,8 @@ The model is designed to predict pulmonary function indices (e.g., FEV1, FVC) fr
 For single-timepoint CXR data, the following augmentation strategies are applied:
 - Rotation
 - Pixel translation
-- Gaussian noise injection
-- Contrast adjustment
+- Add Gaussian noise 
+- Adjust Contrast 
 
 This allows the model to operate robustly with both single and repeated imaging data.
 
