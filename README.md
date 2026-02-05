@@ -1,4 +1,4 @@
-# SiamCXR: Siamese multimodal learning for CXR-based PFT prediction
+# SiamCXR: Siamese multimodal deep learning for CXR-based PFT prediction
 
 This repository provides a **Siamese multimodal deep learning framework** for predicting **pulmonary function tests (PFT)** from **chest X-ray (CXR)** images and non-imaging clinical variables.
 
